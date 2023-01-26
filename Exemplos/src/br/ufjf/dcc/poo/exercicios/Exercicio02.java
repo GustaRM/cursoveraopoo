@@ -1,10 +1,9 @@
 package br.ufjf.dcc.poo.exercicios;
 import java.util.Scanner;
 
-public class Exercicios02 {
+public class Exercicio02 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner teclado = new Scanner(System.in);
 		float lado1T, lado2T, lado1C, lado2C;
 		float areaT, areaC, porcentagem;
